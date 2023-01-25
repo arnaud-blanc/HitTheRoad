@@ -1,0 +1,6 @@
+Num_Acc,catr,voie,v1,v2,circ,nbv,vosp,prof,pr,pr1,plan,lartpc,larrout,surf,infra,situ,vma
+202100000001,3,981,-1.0,,2,2,0,1,(1),(1),1,, -1,1,0,1,80
+202100000002,3,20,0.0,E,2,2,0,1,0,10,1,, -1,1,0,1,80
+202100000003,4,GENERAL GALLIENI (BOULEVARD DU),0.0,,2,2,0,1,(1),(1),1,, -1,1,0,1,50
+202100000004,3,GENERAL GALLIENI (BOULEVARD DU),0.0,,2,4,0,1,0,1,1,, -1,1,0,1,50
+202100000005,7,PARIS. ROUTE DE,-1.0,,2,2,-1,1,11,150,1,, -1,1,0,1,50
